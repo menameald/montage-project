@@ -1,0 +1,85 @@
+{
+  "users": [],
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "title": "القطع والترتيب واختيار الكادرات 🎬",
+      "description": "الأسبوع الأول مخصص لفهم لغة الصورة، واختيار أفضل اللقطات وقصها بدقة متناهية، وبناء تسلسل منطقي ومقنع للمشهد السينمائي.",
+      "playlistUrl": "https://youtube.com/playlist?list=sample1",
+      "taskMaterialsUrl": "https://drive.google.com/drive/folders/1S_sht1Ncv3ee3-r1UO9Nt1CdrtcsT9Hh?usp=drive_link",
+      "videos": [
+        {
+          "id": "vid_1_1784373284077",
+          "title": "دافنشي",
+          "duration": "(08:25)",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DyUE5hETcKE"
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "title": "الحركة والسرعة والانتقالات الاحترافية ⚡",
+      "description": "الأسبوع الثاني يركز على حيوية المشهد وديناميكيته. ستتعلم الـ Speed Ramping والتحكم بالسرعة لخلق تأثيرات بصرية درامية.",
+      "playlistUrl": "https://youtube.com/playlist?list=sample2",
+      "taskMaterialsUrl": "https://drive.google.com/drive/folders/sample_week_2",
+      "videos": [
+        {
+          "id": "vid_2_1",
+          "title": "كيفية عمل Speed Ramping سينمائي وناعم",
+          "duration": "08:45",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "id": "vid_2_2",
+          "title": "الانتقالات غير المرئية (Seamless Transitions)",
+          "duration": "12:10",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "title": "تصميم الصوت والمؤثرات الصوتية 🎧",
+      "description": "الأسبوع الثالث يدور حول نصف متعة الفيديو: الصوت. ستتعلم هندسة الصوت وعزل الضوضاء واستخدام المؤثرات الصوتية (SFX) والـ Ambient لخلق عمق حقيقي.",
+      "playlistUrl": "https://youtube.com/playlist?list=sample3",
+      "taskMaterialsUrl": "https://drive.google.com/drive/folders/sample_week_3",
+      "videos": [
+        {
+          "id": "vid_3_1",
+          "title": "توزيع المؤثرات الصوتية وهندسة الصوت للفيديو",
+          "duration": "09:20",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "id": "vid_3_2",
+          "title": "أسرار اختيار وتنسيق موسيقى الخلفية مع إيقاع القطع",
+          "duration": "06:50",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "title": "تصحيح الألوان واللمسات السينمائية النهائية 🎨",
+      "description": "الأسبوع الرابع والأخير لنقل العمل للمستوى الاحترافي. سنقوم بعمل تصحيح الألوان (Color Correction) والتلوين الإبداعي (Color Grading) وتصدير الفيديو بأعلى جودة.",
+      "playlistUrl": "https://youtube.com/playlist?list=sample4",
+      "taskMaterialsUrl": "https://drive.google.com/drive/folders/sample_week_4",
+      "videos": [
+        {
+          "id": "vid_4_1",
+          "title": "تصحيح ألوان اللقطات ومطابقتها (Matching Exposure & WB)",
+          "duration": "11:15",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "id": "vid_4_2",
+          "title": "إعطاء الفيديو طابع سينمائي (Color Grading + LUTs)",
+          "duration": "08:30",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    }
+  ],
+  "submissions": [],
+  "notifications": []
+}
